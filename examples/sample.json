@@ -1,0 +1,7 @@
+{
+  "items": [
+    {"id": "ITEM-001", "quantity": 2},
+    {"id": "ITEM-002", "quantity": 0}
+  ],
+  "synthetic": true
+}

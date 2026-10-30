@@ -1,0 +1,5 @@
+item_id,quantity,category
+ITEM-001,2,A
+ITEM-002,,B
+ITEM-001,2,A
+ITEM-003,1
